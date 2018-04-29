@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54ef30e7-a046-4b93-a307-87b8ffc4976b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MxSequenceOfEqualElements.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MxSequenceOfEqualElements.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="10" column="27" selection-start-line="7" selection-start-column="8" selection-end-line="10" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxSequenceOfIncreasingElements.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MaxSequenceOfIncreasingElements.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/lab1.java" />
+        <option value="$PROJECT_DIR$/src/lab2.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/StringJoinArr.java" />
+        <option value="$PROJECT_DIR$/src/PrintCharsOfString.java" />
+        <option value="$PROJECT_DIR$/src/PrintIntArr.java" />
+        <option value="$PROJECT_DIR$/src/ReadingIntArray.java" />
+        <option value="$PROJECT_DIR$/src/ThreeIntegersSum.java" />
+        <option value="$PROJECT_DIR$/src/SumNIntegers.java" />
+        <option value="$PROJECT_DIR$/src/SymmetricNumbers.java" />
+        <option value="$PROJECT_DIR$/src/ReverseNum.java" />
+        <option value="$PROJECT_DIR$/src/HexToDecimal.java" />
+        <option value="$PROJECT_DIR$/src/ParseBoolean.java" />
+        <option value="$PROJECT_DIR$/src/ReverseOrder.java" />
+        <option value="$PROJECT_DIR$/src/VowelOrDigit.java" />
+        <option value="$PROJECT_DIR$/src/DecimalToHexAndBinary.java" />
+        <option value="$PROJECT_DIR$/src/e1.java" />
+        <option value="$PROJECT_DIR$/src/CompareCharArrays.java" />
+        <option value="$PROJECT_DIR$/src/MxSequenceOfEqualElements.java" />
+        <option value="$PROJECT_DIR$/src/MaxSequenceOfIncreasingElements.java" />
+        <option value="$PROJECT_DIR$/src/MostFrequentNumber.java" />
+        <option value="$PROJECT_DIR$/src/CharAscii.java" />
+        <option value="$PROJECT_DIR$/src/IndexOfLetters.java" />
+        <option value="$PROJECT_DIR$/src/Point.java" />
+        <option value="$PROJECT_DIR$/src/Circle.java" />
+        <option value="$PROJECT_DIR$/src/IntersectionOfCircles.java" />
+        <option value="$PROJECT_DIR$/src/ListReading.java" />
+        <option value="$PROJECT_DIR$/src/MostFrequentNumberOnly.java" />
+        <option value="$PROJECT_DIR$/src/BombNumbers.java" />
+        <option value="$PROJECT_DIR$/src/EqualSums.java" />
+        <option value="$PROJECT_DIR$/src/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/FitStringIn20Chars.java" />
+        <option value="$PROJECT_DIR$/src/CensorEmailAddress.java" />
+        <option value="$PROJECT_DIR$/src/UrlParser.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JAVA-Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA-Exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.UrlParser">
+    <configuration name="CensorEmailAddress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CensorEmailAddress" />
+      <module name="JAVA-Lab" />
+    </configuration>
+    <configuration name="EqualSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EqualSums" />
+      <module name="JAVA-Lab" />
+    </configuration>
+    <configuration name="FitStringIn20Chars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FitStringIn20Chars" />
+      <module name="JAVA-Lab" />
+    </configuration>
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseString" />
+      <module name="JAVA-Lab" />
+    </configuration>
+    <configuration name="UrlParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UrlParser" />
+      <module name="JAVA-Lab" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list>
+      <item itemvalue="Application.EqualSums" />
+      <item itemvalue="Application.ReverseString" />
+      <item itemvalue="Application.FitStringIn20Chars" />
+      <item itemvalue="Application.CensorEmailAddress" />
+      <item itemvalue="Application.UrlParser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UrlParser" />
+        <item itemvalue="Application.CensorEmailAddress" />
+        <item itemvalue="Application.FitStringIn20Chars" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.EqualSums" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54ef30e7-a046-4b93-a307-87b8ffc4976b" name="Default" comment="" />
+      <created>1522851612893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522851612893</updated>
+      <workItem from="1522851618212" duration="1577000" />
+      <workItem from="1522918834814" duration="14391000" />
+      <workItem from="1522951614094" duration="574000" />
+      <workItem from="1522953579247" duration="599000" />
+      <workItem from="1522957572106" duration="370000" />
+      <workItem from="1523035785177" duration="9270000" />
+      <workItem from="1523373967712" duration="255000" />
+      <workItem from="1523443514983" duration="76000" />
+      <workItem from="1523454988431" duration="7558000" />
+      <workItem from="1523516071648" duration="7868000" />
+      <workItem from="1523556194106" duration="4594000" />
+      <workItem from="1523614139020" duration="62000" />
+      <workItem from="1523792160372" duration="17327000" />
+      <workItem from="1523818813542" duration="4069000" />
+      <workItem from="1523885062836" duration="227000" />
+      <workItem from="1523958057539" duration="666000" />
+      <workItem from="1524048938906" duration="335000" />
+      <workItem from="1524049535313" duration="17000" />
+      <workItem from="1524468030006" duration="55000" />
+      <workItem from="1524995823095" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69893000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29575163" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.238653" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37091503" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="26" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/MxSequenceOfEqualElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="27" selection-start-line="7" selection-start-column="8" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaxSequenceOfIncreasingElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
